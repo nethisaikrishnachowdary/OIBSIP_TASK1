@@ -1,0 +1,28 @@
+body{
+    background-color: #6e86a8;
+}
+.box{
+    background-color: #ebf0eb;
+    position: absolute;
+    width: 11cm;
+    height: 14cm;
+    padding: 0.25cm;
+    margin-top: 3cm;
+    margin-left: 37%;
+    border-radius: 0.7cm;
+}
+th{
+    background-color: #050905;
+    border-radius: 0.5cm;
+    font-size: x-large;
+    color: #f6f9fa;
+}
+td{
+    background-color: #064e7c;
+    border-radius: 0.3cm;
+    width: 1cm;
+    height: 1cm;
+    text-align: center;
+    font-size: larger;
+    color: #f6f9fa;
+}
